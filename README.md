@@ -1,2 +1,2 @@
 # Check-validation-with-DeepLearning
-This project focused on building Deep Learning models for check validation, aiming to identify whether some of the key fields are filled in.
+This project focused on building Deep Learning models for check validation, aiming to identify whether some of the key fields are filled in. Convolutional neural networks were developed and trained using different architectures and preprocessing methods, which ultimately addressed initial overfitting and poor performance. The methodology included data augmentation, dropout regularization, and early stopping to mitigate overfitting, as well as the analysis of performance metrics such as accuracy, precision, and recall.
